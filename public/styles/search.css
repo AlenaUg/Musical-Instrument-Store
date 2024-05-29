@@ -1,0 +1,30 @@
+
+.d2 input, .d2 button {
+    border: none;
+    outline: none;
+    border-radius: 3px;
+  }
+  .d2 input {
+    width: 50%;
+    height: 42px;
+    background: #ffdd87;
+    padding-left: 15px;
+    margin-top: 8%;
+    margin-left: 23%;
+  }
+  .d2 button {
+    height: 42px;
+    width: 42px;
+    top: 8px;
+    right: 8px;
+    background: #F15B42;
+    cursor: pointer;
+    margin-top: 8%;
+    margin-left: 0%;
+  }
+  .d2 button:before {
+    font-family: FontAwesome;
+    color: #F9F0DA;
+    font-size: 20px;
+    font-weight: bold;
+  }
